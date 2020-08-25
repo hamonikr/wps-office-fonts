@@ -1,0 +1,14 @@
+Package: wps-office-fonts
+Version: 1.0.0hamonikr
+Architecture: all
+Maintainer: HamoniKR Team (HamoniKR OS Developement Group) <hamonikr-packages@googlegroups.com>
+Installed-Size: 1011980
+Pre-Depends: dpkg (>= 1.15.6)
+Depends: 
+Recommends: 
+Section: utils
+Priority: optional
+Homepage: https://hamonikr.org
+Description: fonts for WPS Office
+ This fonts provide WPS Office.
+
